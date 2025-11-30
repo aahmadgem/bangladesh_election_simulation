@@ -22,7 +22,7 @@ Each election contributes weighted information. Special adjustments are applied:
 
 2018 → Awami League “prefilled vote inflation” correction (user-defined %)
 
-2. National Polling (SANEM 2025)
+2. National Polling (InnoVision 2025)
 
 Decided voters use direct polling.
 Undecided voters are distributed between BNP and JeI based on a user-controlled split (e.g., 60/40).
