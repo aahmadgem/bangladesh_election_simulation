@@ -1,14 +1,6 @@
 This repository contains a complete, modular election-forecasting framework for simulating the 2026 Bangladesh Parliamentary Election using a Monte Carlo model.
 
-The model blends historical election performance, polling, structural rules, and seat-by-seat simulation to estimate the distribution of outcomes for major political parties.
 
-Repo Structure:
-
-├── monte_carlo_2026_election.py     # Full forecasting engine (Monte Carlo simulation)
-├── scenarios_2026_election.py       # Scenario runner (parameterized what-if analysis)
-├── results_2026_election.py         # Example usage & output printing/visualization
-├── BD_Election_Final.xlsx           # Required dataset (1991, 1996, 2001, 2008, 2018)
-└── README.md
 
 This project simulates the 2026 general election by combining:
 
